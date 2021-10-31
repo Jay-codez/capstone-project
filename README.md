@@ -1,2 +1,2 @@
-# capstone-project
-Capstone Project - Trinity Diner
+# final-project
+
